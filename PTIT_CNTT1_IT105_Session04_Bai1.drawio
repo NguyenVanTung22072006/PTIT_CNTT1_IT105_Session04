@@ -1,9 +1,64 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="28.2.8">
   <diagram name="Page-1" id="Z3cdlsvqRIn-sqUCqHdu">
-    <mxGraphModel>
+    <mxGraphModel dx="1657" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PVfavk5UqBX5ERUQEZEC-5" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="65" y="50" width="720" height="432" as="geometry" />
+        </mxCell>
+        <mxCell id="PVfavk5UqBX5ERUQEZEC-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PVfavk5UqBX5ERUQEZEC-5">
+          <mxGeometry width="720" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="PVfavk5UqBX5ERUQEZEC-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Class&lt;/b&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="PVfavk5UqBX5ERUQEZEC-6">
+          <mxGeometry width="360" height="108" as="geometry">
+            <mxRectangle width="360" height="108" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PVfavk5UqBX5ERUQEZEC-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Vai trò mô tả&lt;/b&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="PVfavk5UqBX5ERUQEZEC-6">
+          <mxGeometry x="360" width="360" height="108" as="geometry">
+            <mxRectangle width="360" height="108" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PVfavk5UqBX5ERUQEZEC-9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PVfavk5UqBX5ERUQEZEC-5">
+          <mxGeometry y="108" width="720" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="PVfavk5UqBX5ERUQEZEC-10" value="Sách" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="PVfavk5UqBX5ERUQEZEC-9">
+          <mxGeometry width="360" height="108" as="geometry">
+            <mxRectangle width="360" height="108" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PVfavk5UqBX5ERUQEZEC-11" value="&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;257&quot; data-start=&quot;246&quot;&gt;&lt;strong data-end=&quot;256&quot; data-start=&quot;248&quot;&gt;&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-end=&quot;322&quot; data-start=&quot;257&quot; data-col-size=&quot;md&quot;&gt;Đại diện cho &lt;strong data-end=&quot;304&quot; data-start=&quot;272&quot;&gt;thông tin của từng cuốn sách&lt;/strong&gt; trong thư viện&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="PVfavk5UqBX5ERUQEZEC-9">
+          <mxGeometry x="360" width="360" height="108" as="geometry">
+            <mxRectangle width="360" height="108" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PVfavk5UqBX5ERUQEZEC-12" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PVfavk5UqBX5ERUQEZEC-5">
+          <mxGeometry y="216" width="720" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="PVfavk5UqBX5ERUQEZEC-13" value="Độc giả" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="PVfavk5UqBX5ERUQEZEC-12">
+          <mxGeometry width="360" height="108" as="geometry">
+            <mxRectangle width="360" height="108" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PVfavk5UqBX5ERUQEZEC-14" value="Đại diện cho &lt;strong data-end=&quot;370&quot; data-start=&quot;351&quot;&gt;người mượn sách&lt;/strong&gt; (khách hàng của thư viện)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="PVfavk5UqBX5ERUQEZEC-12">
+          <mxGeometry x="360" width="360" height="108" as="geometry">
+            <mxRectangle width="360" height="108" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PVfavk5UqBX5ERUQEZEC-15" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="PVfavk5UqBX5ERUQEZEC-5">
+          <mxGeometry y="324" width="720" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="PVfavk5UqBX5ERUQEZEC-16" value="Nhân viên thư viện" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="PVfavk5UqBX5ERUQEZEC-15">
+          <mxGeometry width="360" height="108" as="geometry">
+            <mxRectangle width="360" height="108" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PVfavk5UqBX5ERUQEZEC-17" value="Đại diện cho &lt;strong data-end=&quot;488&quot; data-start=&quot;437&quot;&gt;người quản lý việc mượn, trả, nhập dữ liệu sách&lt;/strong&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="PVfavk5UqBX5ERUQEZEC-15">
+          <mxGeometry x="360" width="360" height="108" as="geometry">
+            <mxRectangle width="360" height="108" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
